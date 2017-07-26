@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        print("I like xcode 9")
+        print("I like xcode 9 beta 4")
     }
 
 
